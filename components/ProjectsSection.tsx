@@ -6,27 +6,35 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Export Management System",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Y3 S2 ITPM Project",
+    image: "/1.jpg",
+    github: "https://github.com/ThanuVijay/export-management-system",
+    link: "",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
+    name: "SuperMarket Management System",
+    description: "Y2 S2 ITP Project",
     image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    github: "https://github.com/ThanuVijay/export-management-system",
+    link: "",
   },
   {
-    name: "Kator Family Photos",
+    name: "Zomato Food Delivary Application",
+    description:
+      "Kator Family Photos is a photos and video digitization service in the LA area.",
+    image: "/2.jpg",
+    github: "https://github.com/ThanuVijay/ZOMATO-MASTER",
+    link: "",
+  },
+  {
+    name: "Online Music Store",
     description:
       "Kator Family Photos is a photos and video digitization service in the LA area.",
     image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+    github: "https://github.com/ThanuVijay/export-management-system",
+    link: "",
   },
 ]
 
